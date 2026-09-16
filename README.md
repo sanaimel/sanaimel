@@ -11,8 +11,6 @@ I have hands-on experience in:
 - Systems administration (Windows, Linux, Microsoft 365, Active Directory)  
 - Cybersecurity fundamentals and blue/red team lab work  
 
-## 🌐 Live Portfolio Site
-🔗 [https://sanaimel.github.io/myportfolio/](https://sanaimel.github.io/myportfolio/)
 
 ---
 
